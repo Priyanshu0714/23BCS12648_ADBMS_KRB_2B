@@ -1,5 +1,5 @@
 // ===================== BOOKSTORE DATABASE SETUP =====================
-use bookstore_db
+// use bookstore_db
 
 // ======================= INSERT OPERATIONS =======================
 
